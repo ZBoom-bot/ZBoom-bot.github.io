@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ZBoom.github.io/sitemap.xml
+Sitemap: https://zboom.github.io/sitemap.xml
